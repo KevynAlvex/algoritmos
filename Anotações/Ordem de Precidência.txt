@@ -1,0 +1,4 @@
+() Parênteses
+^ Exponenciação
+*/ Multipliação/Divisão
++- Soma/Subtração

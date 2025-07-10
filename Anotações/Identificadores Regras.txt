@@ -1,0 +1,6 @@
+1. Deve começar com uma letra
+2. Os próximos podem ser letras e números
+3. não pode utilizar símbolo, exceto _
+4. Não pode conter espaços em brancos
+5. Não pode conter acentos
+6. Não pode ser uma palavra reservada
